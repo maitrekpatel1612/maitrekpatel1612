@@ -1,196 +1,65 @@
 <div align="center">
 
-<div style="width: 100%; margin: 0 auto; background: linear-gradient(145deg, #0d1117, #161b22); border-radius: 25px; padding: 40px; box-shadow: 0 25px 80px rgba(0,0,0,0.6), 0 12px 30px rgba(0,0,0,0.4), inset 0 1px 0 rgba(255,255,255,0.1); border: 2px solid rgba(102, 126, 234, 0.4); position: relative; overflow: hidden;">
+<!-- Header Section -->
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=35&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Maitrek+Patel;Full-Stack+Developer;GenAI+Enthusiast;System+Designer" alt="Typing SVG" />
+</h1>
 
-<!-- Animated background particles -->
-<div style="position: absolute; top: -50%; left: -50%; width: 200%; height: 200%; background: radial-gradient(circle, rgba(102, 126, 234, 0.15) 1px, transparent 1px); background-size: 30px 30px; animation: float 20s linear infinite; pointer-events: none;"></div>
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀_Full--Stack-Developer-667eea?style=for-the-badge&labelColor=1a1a2e&color=667eea" alt="Full-Stack"/>
+  <img src="https://img.shields.io/badge/🤖_GenAI-Developer-f093fb?style=for-the-badge&labelColor=1a1a2e&color=f093fb" alt="GenAI"/>
+  <img src="https://img.shields.io/badge/🎯_System-Designer-4facfe?style=for-the-badge&labelColor=1a1a2e&color=4facfe" alt="System Designer"/>
+</p>
 
-<!-- Glowing border animation -->
-<div style="position: absolute; top: -2px; left: -2px; right: -2px; bottom: -2px; background: linear-gradient(45deg, #667eea, #764ba2, #f093fb, #f5576c, #4facfe, #00f2fe); border-radius: 25px; z-index: -1; animation: borderGlow 3s linear infinite; opacity: 0.8;"></div>
+<p align="center">
+  <em>💡 Building the future, one deployment at a time</em>
+</p>
 
-<!-- Solid dark overlay for content clarity -->
-<div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: rgba(13, 17, 23, 0.85); border-radius: 25px; z-index: 0;"></div>
+<br>
 
-<div style="position: relative; z-index: 1;">
+<!-- Personal Info Cards -->
+<table border="0" cellspacing="10" cellpadding="0" width="100%" align="center">
+<tr align="center">
+<td width="25%">
+  <img src="https://img.shields.io/badge/👤_Age-22_years-4facfe?style=for-the-badge&labelColor=0f172a&color=4facfe" alt="Age" />
+</td>
+<td width="25%">
+  <img src="https://img.shields.io/badge/🚹_Gender-Male-f093fb?style=for-the-badge&labelColor=0f172a&color=f093fb" alt="Gender" />
+</td>
+<td width="25%">
+  <img src="https://img.shields.io/badge/📍_Location-India-81c784?style=for-the-badge&labelColor=0f172a&color=81c784" alt="Location" />
+</td>
+<td width="25%">
+  <img src="https://img.shields.io/badge/🎯_Focus-GenAI_&_Systems-667eea?style=for-the-badge&labelColor=0f172a&color=667eea" alt="Focus" />
+</td>
+</tr>
+</table>
 
-<!-- Header with animated avatar and profile -->
-<div style="display: flex; align-items: center; justify-content: center; margin-bottom: 35px; animation: slideInDown 1s ease-out;">
-  
-  <!-- Professional Profile Image/Icon -->
-  <div style="width: 120px; height: 120px; background: linear-gradient(145deg, #667eea, #764ba2, #f093fb); border-radius: 20px; display: flex; flex-direction: column; align-items: center; justify-content: center; margin-right: 35px; box-shadow: 0 15px 40px rgba(102, 126, 234, 0.6), 0 5px 15px rgba(0,0,0,0.3); animation: profileGlow 3s ease-in-out infinite; position: relative; border: 3px solid rgba(255,255,255,0.2);">
-    <div style="position: absolute; width: 100%; height: 100%; border-radius: 20px; border: 2px solid rgba(255,255,255,0.3); animation: pulse 2s infinite;"></div>
-    <span style="font-size: 48px; color: white; animation: rotate 4s linear infinite; margin-bottom: 5px;">👨‍💻</span>
-    <div style="background: rgba(0,0,0,0.4); padding: 4px 8px; border-radius: 10px;">
-      <span style="color: white; font-size: 11px; font-weight: 600; letter-spacing: 1px;">DEVELOPER</span>
-    </div>
-  </div>
-  
-  <div style="text-align: left; animation: fadeInRight 1.2s ease-out;">
-    <h1 style="margin: 0; color: #ffffff; font-size: 42px; font-weight: 800; background: linear-gradient(135deg, #667eea, #764ba2, #f093fb, #4facfe); -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: textShine 3s ease-in-out infinite alternate; text-shadow: none; filter: drop-shadow(0 2px 4px rgba(255,255,255,0.1));">Maitrek Patel</h1>
-    <div style="margin: 12px 0 0 0; display: flex; align-items: center; gap: 10px;">
-      <span style="background: linear-gradient(135deg, #667eea, #764ba2); color: white; padding: 6px 12px; border-radius: 15px; font-size: 14px; font-weight: 600; box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);">🚀 Full-Stack</span>
-      <span style="background: linear-gradient(135deg, #f093fb, #f5576c); color: white; padding: 6px 12px; border-radius: 15px; font-size: 14px; font-weight: 600; box-shadow: 0 4px 12px rgba(240, 147, 251, 0.4);">🤖 GenAI</span>
-    </div>
-    <p style="margin: 15px 0 0 0; color: #e2e8f0; font-size: 18px; font-weight: 500; opacity: 1;">Building the future, one deployment at a time</p>
-  </div>
+<br>
+
+<!-- About Me Section -->
+<div align="left">
+<details>
+<summary><h3>💭 About Me</h3></summary>
+
+### 🚀 Technical Journey
+- 🧠 Currently wrestling with **Full-Stack Dev**, **DSA**, and why that one bug only shows up in production
+- 🤖 Deeply into **AI systems** — anything that thinks (or pretends to) gets my attention  
+- 🧩 Vibing with **microservices**, **computer networks**, and chaotic system architectures that somehow make sense
+- 🏗️ Exploring **system design** — not just to scale systems, but to scale how I think
+- 🔧 Not a fan of just learning — I **build, deploy, break, fix**. In that order
+- 💻 **MERN stack** during the day, weird debug sessions at night
+
+
+### ✨ Beyond Code  
+- 🎹 **Piano keys** are my therapy — Bach and Chopin hit different when debugging at 2 AM
+- 🎼 **Classical music** enthusiast — because sometimes your brain needs Mozart while your code needs logic
+- 🤔 **Philosophy nerd** — from Aristotle to modern ethics, I love deep conversations about existence and meaning
+- 💬 Thrive on **healthy debates** — challenge my ideas, let's both walk away smarter
+- 🏃‍♂️ **Athletics** passionate, especially **5000m runner** — endurance on the track, persistence in code
+
+</details>
 </div>
-
-<!-- Stats cards with solid backgrounds -->
-<div style="background: rgba(22, 27, 34, 0.95); border-radius: 20px; padding: 30px; margin-bottom: 30px; backdrop-filter: blur(20px); border: 1px solid rgba(255,255,255,0.15); animation: slideInLeft 1.5s ease-out; box-shadow: 0 8px 25px rgba(0,0,0,0.3);">
-  <div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr; gap: 25px; text-align: center;">
-    <div style="padding: 25px 20px; background: linear-gradient(145deg, rgba(102, 126, 234, 0.25), rgba(118, 75, 162, 0.25)); border-radius: 18px; transition: transform 0.3s ease, box-shadow 0.3s ease; animation: fadeInUp 1.8s ease-out; border: 1px solid rgba(102, 126, 234, 0.4); backdrop-filter: blur(10px);" onmouseover="this.style.transform='translateY(-8px) scale(1.02)'; this.style.boxShadow='0 20px 40px rgba(102, 126, 234, 0.5)'" onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='none'">
-      <span style="color: #a0aec0; font-weight: 700; font-size: 16px; display: block; margin-bottom: 10px; opacity: 1;">👤 Age</span>
-      <span style="color: #ffffff; font-size: 22px; font-weight: 700; opacity: 1;">22 years</span>
-    </div>
-    <div style="padding: 25px 20px; background: linear-gradient(145deg, rgba(240, 147, 251, 0.25), rgba(245, 87, 108, 0.25)); border-radius: 18px; transition: transform 0.3s ease, box-shadow 0.3s ease; animation: fadeInUp 2s ease-out; border: 1px solid rgba(240, 147, 251, 0.4); backdrop-filter: blur(10px);" onmouseover="this.style.transform='translateY(-8px) scale(1.02)'; this.style.boxShadow='0 20px 40px rgba(240, 147, 251, 0.5)'" onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='none'">
-      <span style="color: #a0aec0; font-weight: 700; font-size: 16px; display: block; margin-bottom: 10px; opacity: 1;">🚹 Gender</span>
-      <span style="color: #ffffff; font-size: 22px; font-weight: 700; opacity: 1;">Male</span>
-    </div>
-    <div style="padding: 25px 20px; background: linear-gradient(145deg, rgba(79, 172, 254, 0.25), rgba(0, 242, 254, 0.25)); border-radius: 18px; transition: transform 0.3s ease, box-shadow 0.3s ease; animation: fadeInUp 2.2s ease-out; border: 1px solid rgba(79, 172, 254, 0.4); backdrop-filter: blur(10px);" onmouseover="this.style.transform='translateY(-8px) scale(1.02)'; this.style.boxShadow='0 20px 40px rgba(79, 172, 254, 0.5)'" onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='none'">
-      <span style="color: #a0aec0; font-weight: 700; font-size: 16px; display: block; margin-bottom: 10px; opacity: 1;">📍 Location</span>
-      <span style="color: #ffffff; font-size: 22px; font-weight: 700; opacity: 1;">India</span>
-    </div>
-    <div style="padding: 25px 20px; background: linear-gradient(145deg, rgba(129, 199, 132, 0.25), rgba(102, 187, 106, 0.25)); border-radius: 18px; transition: transform 0.3s ease, box-shadow 0.3s ease; animation: fadeInUp 2.4s ease-out; border: 1px solid rgba(129, 199, 132, 0.4); backdrop-filter: blur(10px);" onmouseover="this.style.transform='translateY(-8px) scale(1.02)'; this.style.boxShadow='0 20px 40px rgba(129, 199, 132, 0.5)'" onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='none'">
-      <span style="color: #a0aec0; font-weight: 700; font-size: 16px; display: block; margin-bottom: 10px; opacity: 1;">🎯 Focus</span>
-      <span style="color: #ffffff; font-size: 22px; font-weight: 700; opacity: 1;">GenAI & Systems</span>
-    </div>
-  </div>
-</div>
-
-<!-- About section with solid background -->
-<div style="text-align: left; background: rgba(22, 27, 34, 0.95); border-radius: 20px; padding: 35px; backdrop-filter: blur(20px); border: 1px solid rgba(255,255,255,0.15); animation: slideInRight 1.8s ease-out; box-shadow: 0 8px 25px rgba(0,0,0,0.3);">
-  <h3 style="margin: 0 0 30px 0; color: #ffffff; font-size: 24px; display: flex; align-items: center; font-weight: 800; opacity: 1;">
-    <span style="margin-right: 15px; font-size: 28px; animation: bounce 2s infinite;">💭</span> About Me
-  </h3>
-  
-  <!-- Technical Skills -->
-  <div style="margin-bottom: 30px;">
-    <h4 style="color: #667eea; font-size: 20px; margin: 0 0 20px 0; font-weight: 700; opacity: 1;">🚀 Technical Journey</h4>
-    <ul style="margin: 0; padding-left: 0; list-style: none;">
-      <li style="color: #ffffff; line-height: 1.8; font-size: 16px; margin-bottom: 12px; padding-left: 30px; position: relative; animation: fadeInLeft 2.5s ease-out; opacity: 1; font-weight: 500;">
-        <span style="position: absolute; left: 0; color: #667eea; font-size: 18px;">🧠</span> Currently wrestling with Full-Stack Dev, DSA, and why that one bug only shows up in production
-      </li>
-      <li style="color: #ffffff; line-height: 1.8; font-size: 16px; margin-bottom: 12px; padding-left: 30px; position: relative; animation: fadeInLeft 2.7s ease-out; opacity: 1; font-weight: 500;">
-        <span style="position: absolute; left: 0; color: #f093fb; font-size: 18px;">🤖</span> Deeply into AI systems — anything that thinks (or pretends to) gets my attention
-      </li>
-      <li style="color: #ffffff; line-height: 1.8; font-size: 16px; margin-bottom: 12px; padding-left: 30px; position: relative; animation: fadeInLeft 2.9s ease-out; opacity: 1; font-weight: 500;">
-        <span style="position: absolute; left: 0; color: #4facfe; font-size: 18px;">🧩</span> Vibing with microservices, computer networks, and chaotic system architectures that somehow make sense
-      </li>
-      <li style="color: #ffffff; line-height: 1.8; font-size: 16px; margin-bottom: 12px; padding-left: 30px; position: relative; animation: fadeInLeft 3.1s ease-out; opacity: 1; font-weight: 500;">
-        <span style="position: absolute; left: 0; color: #81c784; font-size: 18px;">🏗️</span> Exploring system design — not just to scale systems, but to scale how I think
-      </li>
-      <li style="color: #ffffff; line-height: 1.8; font-size: 16px; margin-bottom: 12px; padding-left: 30px; position: relative; animation: fadeInLeft 3.3s ease-out; opacity: 1; font-weight: 500;">
-        <span style="position: absolute; left: 0; color: #ffb74d; font-size: 18px;">🔧</span> Not a fan of just learning — I build, deploy, break, fix. In that order
-      </li>
-      <li style="color: #ffffff; line-height: 1.8; font-size: 16px; margin-bottom: 12px; padding-left: 30px; position: relative; animation: fadeInLeft 3.5s ease-out; opacity: 1; font-weight: 500;">
-        <span style="position: absolute; left: 0; color: #ba68c8; font-size: 18px;">💻</span> MERN stack during the day, weird debug sessions at night
-      </li>
-      <li style="color: #ffffff; line-height: 1.8; font-size: 16px; margin-bottom: 12px; padding-left: 30px; position: relative; animation: fadeInLeft 3.7s ease-out; opacity: 1; font-weight: 500;">
-        <span style="position: absolute; left: 0; color: #f06292; font-size: 18px;">⚔️</span> DP doesn't scare me. It just scars me a little
-      </li>
-    </ul>
-  </div>
-
-  <!-- Personal Interests -->
-  <div style="margin-bottom: 25px;">
-    <h4 style="color: #f093fb; font-size: 20px; margin: 0 0 20px 0; font-weight: 700; opacity: 1;">✨ Beyond Code</h4>
-    <ul style="margin: 0; padding-left: 0; list-style: none;">
-      <li style="color: #ffffff; line-height: 1.8; font-size: 16px; margin-bottom: 12px; padding-left: 30px; position: relative; animation: fadeInRight 2.5s ease-out; opacity: 1; font-weight: 500;">
-        <span style="position: absolute; left: 0; color: #667eea; font-size: 18px;">🎹</span> Piano keys are my therapy — Bach and Chopin hit different when debugging at 2 AM
-      </li>
-      <li style="color: #ffffff; line-height: 1.8; font-size: 16px; margin-bottom: 12px; padding-left: 30px; position: relative; animation: fadeInRight 2.7s ease-out; opacity: 1; font-weight: 500;">
-        <span style="position: absolute; left: 0; color: #4facfe; font-size: 18px;">🎼</span> Classical music enthusiast — because sometimes your brain needs Mozart while your code needs logic
-      </li>
-      <li style="color: #ffffff; line-height: 1.8; font-size: 16px; margin-bottom: 12px; padding-left: 30px; position: relative; animation: fadeInRight 2.9s ease-out; opacity: 1; font-weight: 500;">
-        <span style="position: absolute; left: 0; color: #81c784; font-size: 18px;">🤔</span> Philosophy nerd — from Aristotle to modern ethics, I love deep conversations about existence and meaning
-      </li>
-      <li style="color: #ffffff; line-height: 1.8; font-size: 16px; margin-bottom: 12px; padding-left: 30px; position: relative; animation: fadeInRight 3.1s ease-out; opacity: 1; font-weight: 500;">
-        <span style="position: absolute; left: 0; color: #ffb74d; font-size: 18px;">💬</span> Thrive on healthy debates — challenge my ideas, let's both walk away smarter
-      </li>
-      <li style="color: #ffffff; line-height: 1.8; font-size: 16px; margin-bottom: 12px; padding-left: 30px; position: relative; animation: fadeInRight 3.3s ease-out; opacity: 1; font-weight: 500;">
-        <span style="position: absolute; left: 0; color: #f06292; font-size: 18px;">🏃‍♂️</span> Athletics passionate, especially <strong>5000m runner</strong> — endurance on the track, persistence in code
-      </li>
-    </ul>
-  </div>
-
-  <!-- Enhanced skill badges -->
-  <div style="margin-top: 30px; display: flex; flex-wrap: wrap; gap: 15px; animation: fadeInUp 3.8s ease-out;">
-    <span style="background: linear-gradient(135deg, #667eea, #764ba2); color: white; padding: 12px 20px; border-radius: 25px; font-size: 15px; font-weight: 700; box-shadow: 0 8px 25px rgba(102, 126, 234, 0.5); animation: float 3s ease-in-out infinite; animation-delay: 0s; border: 1px solid rgba(255,255,255,0.3); opacity: 1;">🚀 Full-Stack Development</span>
-    <span style="background: linear-gradient(135deg, #f093fb, #f5576c); color: white; padding: 12px 20px; border-radius: 25px; font-size: 15px; font-weight: 700; box-shadow: 0 8px 25px rgba(245, 87, 108, 0.5); animation: float 3s ease-in-out infinite; animation-delay: 0.5s; border: 1px solid rgba(255,255,255,0.3); opacity: 1;">🤖 GenAI Development</span>
-    <span style="background: linear-gradient(135deg, #4facfe, #00f2fe); color: white; padding: 12px 20px; border-radius: 25px; font-size: 15px; font-weight: 700; box-shadow: 0 8px 25px rgba(79, 172, 254, 0.5); animation: float 3s ease-in-out infinite; animation-delay: 1s; border: 1px solid rgba(255,255,255,0.3); opacity: 1;">☁️ DevOps & Systems</span>
-    <span style="background: linear-gradient(135deg, #81c784, #66bb6a); color: white; padding: 12px 20px; border-radius: 25px; font-size: 15px; font-weight: 700; box-shadow: 0 8px 25px rgba(129, 199, 132, 0.5); animation: float 3s ease-in-out infinite; animation-delay: 1.5s; border: 1px solid rgba(255,255,255,0.3); opacity: 1;">🎼 Music & Philosophy</span>
-  </div>
-</div>
-
-</div>
-
-</div>
-
-<style>
-
-@keyframes borderGlow {
-  0% { filter: hue-rotate(0deg); }
-  100% { filter: hue-rotate(360deg); }
-}
-@keyframes profileGlow {
-  0% { box-shadow: 0 15px 40px rgba(102, 126, 234, 0.6), 0 5px 15px rgba(0,0,0,0.3); }
-  50% { box-shadow: 0 20px 50px rgba(240, 147, 251, 0.8), 0 8px 25px rgba(0,0,0,0.4); }
-  100% { box-shadow: 0 15px 40px rgba(102, 126, 234, 0.6), 0 5px 15px rgba(0,0,0,0.3); }
-}
-@keyframes bounce {
-  0%, 20%, 50%, 80%, 100% { transform: translateY(0); }
-  40% { transform: translateY(-10px); }
-  60% { transform: translateY(-5px); }
-}
-@keyframes pulse {
-  0% { transform: scale(1); opacity: 1; }
-  50% { transform: scale(1.1); opacity: 0.7; }
-  100% { transform: scale(1); opacity: 1; }
-}
-@keyframes rotate {
-  0% { transform: rotate(0deg); }
-  25% { transform: rotate(-5deg); }
-  75% { transform: rotate(5deg); }
-  100% { transform: rotate(0deg); }
-}
-@keyframes textShine {
-  0% { background-position: 0% 50%; }
-  100% { background-position: 100% 50%; }
-}
-@keyframes slideInDown {
-  from { transform: translateY(-100px); opacity: 0; }
-  to { transform: translateY(0); opacity: 1; }
-}
-@keyframes slideInLeft {
-  from { transform: translateX(-100px); opacity: 0; }
-  to { transform: translateX(0); opacity: 1; }
-}
-@keyframes slideInRight {
-  from { transform: translateX(100px); opacity: 0; }
-  to { transform: translateX(0); opacity: 1; }
-}
-@keyframes fadeInUp {
-  from { transform: translateY(30px); opacity: 0; }
-  to { transform: translateY(0); opacity: 1; }
-}
-@keyframes fadeInRight {
-  from { transform: translateX(30px); opacity: 0; }
-  to { transform: translateX(0); opacity: 1; }
-}
-@keyframes fadeInLeft {
-  from { transform: translateX(-30px); opacity: 0; }
-  to { transform: translateX(0); opacity: 1; }
-}
-@keyframes fadeIn {
-  from { opacity: 0; }
-  to { opacity: 1; }
-}
-@keyframes float {
-  0%, 100% { transform: translateY(0px); }
-  50% { transform: translateY(-10px); }
-}
-
-</style>
 
 <br>
 
@@ -223,7 +92,6 @@
 
 <div align="center">
 
-> [!IMPORTANT]
 > ## 🔥 **My Only Motto**
 > ### *"If it's not deployed, did it even happen?"*
 > 
@@ -334,15 +202,11 @@
   </a>
 </div>
 
+---
+
 <div align="center">
   <h3>💬 Open to collaborate on exciting projects!</h3>
   <p><em>"Let's build something that hits different — together! 🚀"</em></p>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maitrekpatel1612/maitrekpatel1612/output/snake.svg" alt="Snake animation" />
-
-###
+<br>
