@@ -39,8 +39,8 @@
 
 <!-- About Me Section -->
 <div align="left">
-<details>
-<summary><h3>💭 About Me</h3></summary>
+
+<h3>💭 About Me</h3>
 
 ### 🚀 Technical Journey
 - 🧠 Currently wrestling with **Full-Stack Dev**, **DSA**, and why that one bug only shows up in production
@@ -58,11 +58,7 @@
 - 💬 Thrive on **healthy debates** — challenge my ideas, let's both walk away smarter
 - 🏃‍♂️ **Athletics** passionate, especially **5000m runner** — endurance on the track, persistence in code
 
-</details>
 </div>
-
-<br>
-
 
 <br>
 
