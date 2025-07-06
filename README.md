@@ -194,7 +194,6 @@
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40"/>
   </a>
 </p>
----
 
 <div align="center">
   <h3>💬 Open to collaborate on exciting projects!</h3>
