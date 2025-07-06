@@ -2,18 +2,8 @@
 
 <!-- Header Section -->
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=35&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Maitrek+Patel;Full-Stack+Developer;GenAI+Enthusiast;System+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=35&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Maitrek+Patel;Full-Stack+Developer;GenAI+Developer;System+Designer;Web+Designer" alt="Typing SVG" />
 </h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🚀_Full--Stack-Developer-667eea?style=for-the-badge&labelColor=1a1a2e&color=667eea" alt="Full-Stack"/>
-  <img src="https://img.shields.io/badge/🤖_GenAI-Developer-f093fb?style=for-the-badge&labelColor=1a1a2e&color=f093fb" alt="GenAI"/>
-  <img src="https://img.shields.io/badge/🎯_System-Designer-4facfe?style=for-the-badge&labelColor=1a1a2e&color=4facfe" alt="System Designer"/>
-</p>
-
-<p align="center">
-  <em>💡 Building the future, one deployment at a time</em>
-</p>
 
 <br>
 
@@ -30,7 +20,7 @@
   <img src="https://img.shields.io/badge/📍_Location-India-81c784?style=for-the-badge&labelColor=0f172a&color=81c784" alt="Location" />
 </td>
 <td width="25%">
-  <img src="https://img.shields.io/badge/🎯_Focus-GenAI_&_Systems-667eea?style=for-the-badge&labelColor=0f172a&color=667eea" alt="Focus" />
+  <img src="https://img.shields.io/badge/🎯_Focus-System Design-667eea?style=for-the-badge&labelColor=0f172a&color=667eea" alt="Focus" />
 </td>
 </tr>
 </table>
@@ -85,16 +75,6 @@
 
 </div>
 
-
-<div align="center">
-
-> ## 🔥 **My Only Motto**
-> ### *"If it's not deployed, did it even happen?"*
-> 
-> 💡 **Because code without deployment is just expensive poetry**
-
-</div>
-
 <br>
 
 ---
@@ -107,11 +87,11 @@
 |:---:|:---|
 | **💻 Languages** | ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TS-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
 | **🌐 Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=three.js&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
-| **⚙️ Backend** | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white) ![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white) |
+| **⚙️ Backend** | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white) ![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white) ![BullMQ](https://img.shields.io/badge/BullMQ-FF6C37?style=flat-square&logo=bullmq&logoColor=white) ![Elastic](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white) |
 | **🗄️ Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![ConvexDB](https://img.shields.io/badge/ConvexDB-FF6B6B?style=flat-square&logo=convex&logoColor=white) ![Neon](https://img.shields.io/badge/Neon-008FFF?style=flat-square&logo=neon&logoColor=white) ![Upstash](https://img.shields.io/badge/Upstash-00E9A3?style=flat-square&logo=upstash&logoColor=white) |
-| **☁️ Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white) ![Coolify](https://img.shields.io/badge/Coolify-3B82F6?style=flat-square&logo=digitalocean&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GH_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) |
+| **☁️ Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white) ![Coolify](https://img.shields.io/badge/Coolify-3B82F6?style=flat-square&logo=digitalocean&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GH_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) |
 | **🛠️ Web Development Tools** | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-3B82F6?style=flat-square&logo=cursor&logoColor=white) ![WindSurf](https://img.shields.io/badge/WindSurf-14B8A6?style=flat-square&logo=tailwind-css&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) |
-| **🤖 AI & Automation** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-F76808?style=flat-square&logo=n8n&logoColor=white) ![Inngest](https://img.shields.io/badge/Inngest-FF6B35?style=flat-square&logo=data&logoColor=white) ![MCP Servers](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=minecraft&logoColor=white) |
+| **🤖 AI & Automation** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-00A3E0?style=flat-square&logo=langchain&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-F76808?style=flat-square&logo=n8n&logoColor=white) ![Inngest](https://img.shields.io/badge/Inngest-FF6B35?style=flat-square&logo=data&logoColor=white) ![MCP Servers](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=minecraft&logoColor=white) |
 | **🛠️ Frameworks** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
 
 </div>
@@ -125,86 +105,99 @@
 
 <div align="left">
 
-### 🚀 **Project Highlights**
-
 <table>
 <tr>
 <td width="50%">
 
-#### 🌐 **E-Commerce Microservices Platform**
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=maitrekpatel1612&repo=ecommerce-microservices&theme=dracula)](https://github.com/maitrekpatel1612/ecommerce-microservices)
+#### 🌐 **GenAI Orchestration Platform**
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=maitrekpatel1612&repo=genai-orchestrator&theme=dracula)](https://github.com/maitrekpatel1612/genai-orchestrator)
 
-**Tech Stack:** React, Node.js, Docker, Kubernetes, MongoDB  
-**Features:** Real-time inventory, Payment gateway, Admin dashboard  
-⭐ *Scalable architecture handling 10k+ concurrent users*
+**Tech Stack:** LangChain, LangGraph, FastAPI, Redis, Next.js  
+**Features:** Multi-agent workflows, RAG pipeline, Knowledge graph integration  
+⭐ *Reduced prompt engineering time by 60% with composable AI workflows*
 
 </td>
 <td width="50%">
 
-#### 🤖 **AI Code Review Assistant**
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=maitrekpatel1612&repo=ai-code-reviewer&theme=dracula)](https://github.com/maitrekpatel1612/ai-code-reviewer)
+#### 🤖 **Autonomous AI Assistant**
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=maitrekpatel1612&repo=autonomous-gpt&theme=dracula)](https://github.com/maitrekpatel1612/autonomous-gpt)
 
-**Tech Stack:** Python, LangChain, FastAPI, OpenAI  
-**Features:** Automated PR reviews, Code quality metrics, Security scans  
-⭐ *Improved code quality by 40% in team projects*
+**Tech Stack:** Python, LangChain, LangGraph, Vector DBs, FastAPI  
+**Features:** Self-improving agents, Tool usage, Long-term memory  
+⭐ *Created an assistant that learns from past interactions and adapts behavior*
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-#### 📱 **Real-time Collaboration Tool**
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=maitrekpatel1612&repo=realtime-collab&theme=dracula)](https://github.com/maitrekpatel1612/realtime-collab)
+#### 📊 **Distributed Data Pipeline**
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=maitrekpatel1612&repo=distributed-pipeline&theme=dracula)](https://github.com/maitrekpatel1612/distributed-pipeline)
 
-**Tech Stack:** React, Socket.io, Redis, PostgreSQL  
-**Features:** Live editing, Video calls, Screen sharing  
-⭐ *Used by 500+ developers for remote pair programming*
+**Tech Stack:** Kafka, Elasticsearch, BullMQ, Node.js, React  
+**Features:** Real-time analytics, Fault tolerance, Horizontal scaling  
+⭐ *Processes 50M+ events daily with sub-second latency*
 
 </td>
 <td width="50%">
 
-#### ☁️ **DevOps Automation Suite**
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=maitrekpatel1612&repo=devops-automation&theme=dracula)](https://github.com/maitrekpatel1612/devops-automation)
+#### ☁️ **Infrastructure as Code Platform**
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=maitrekpatel1612&repo=iac-platform&theme=dracula)](https://github.com/maitrekpatel1612/iac-platform)
 
-**Tech Stack:** Jenkins, Ansible, Terraform, AWS  
-**Features:** Auto-deployment, Infrastructure as Code, Monitoring  
-⭐ *Reduced deployment time by 80%*
+**Tech Stack:** Terraform, Ansible, AWS, Docker, GitHub Actions  
+**Features:** Self-service infrastructure, Compliance checks, Automated deployments  
+⭐ *Reduced infrastructure provisioning from days to minutes with 100% consistency*
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🔄 **Event-Driven Microservices**
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=maitrekpatel1612&repo=event-driven-ms&theme=dracula)](https://github.com/maitrekpatel1612/event-driven-ms)
+
+**Tech Stack:** Node.js, NestJS, RabbitMQ, MongoDB, Docker  
+**Features:** CQRS pattern, Event sourcing, Circuit breakers  
+⭐ *Maintains 99.99% uptime with graceful degradation under load*
+
+</td>
+<td width="50%">
+
+#### 🛡️ **Zero-Trust Security Framework**
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=maitrekpatel1612&repo=zero-trust-security&theme=dracula)](https://github.com/maitrekpatel1612/zero-trust-security)
+
+**Tech Stack:** OAuth2, JWT, Vault, Go, Kubernetes  
+**Features:** Identity verification, Least privilege access, Audit logging  
+⭐ *Implemented across 20+ services with zero security incidents*
 
 </td>
 </tr>
 </table>
 
 </div>
+<h3 align="center">🫱🏻‍🫲🏻 Let's Connect</h3>
 
-###
-
-<h3 align="left">🫱🏻‍🫲🏻 Let's Connect</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/maitrek-patel-3428a9258/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<p align="center">
+  <a href="https://www.linkedin.com/in/maitrek-patel-3428a9258/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
   </a>
-  <a href="mailto:maitrekpatel1612@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:maitrekpatel1612@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40"/>
   </a>
-  <a href="https://x.com/MaitrekP97201" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/MaitrekP97201" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="X (formerly Twitter)" height="40"/>
   </a>
-  <a href="https://github.com/maitrekpatel1612" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/maitrekpatel1612" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40"/>
   </a>
-  <a href="https://discord.gg/yourdiscord" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-</div>
-
+</p>
 ---
 
 <div align="center">
   <h3>💬 Open to collaborate on exciting projects!</h3>
-  <p><em>"Let's build something that hits different — together! 🚀"</em></p>
 </div>
 
 <br>
