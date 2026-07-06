@@ -2,7 +2,7 @@
 
 <!-- Header Section -->
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=35&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Maitrek+Patel;Full-Stack+Developer;GenAI+Developer;System+Designer;Web+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=35&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Maitrek+Patel;Full-Stack+Developer;AI+Engineer;System+Designer;Web+Designer" alt="Typing SVG" />
 </h1>
 
 <br>
@@ -58,24 +58,6 @@
   <img src="https://img.shields.io/github/stars/maitrekpatel1612?label=Total%20Stars&style=for-the-badge&color=9D4EDD" alt="GitHub stars" />
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maitrekpatel1612&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maitrekpatel1612&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&border_radius=10" height="180" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=maitrekpatel1612&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=10" height="180" alt="streak graph"  />
-</div>
-
-<br>
-
-</div>
-
-<br>
 
 ---
 
